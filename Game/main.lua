@@ -1,0 +1,1 @@
+local Renderer = Foxit:GetRenderer()
