@@ -15,3 +15,11 @@ end
 function love.keyreleased(...)
     Foxit.love.keyreleased(...)
 end
+
+function love.mousepressed(...)
+    Foxit.love.mousepressed(...)
+end
+
+function love.mousereleased(...)
+    Foxit.love.mousereleased(...)
+end
