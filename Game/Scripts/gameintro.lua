@@ -1,0 +1,1 @@
+local strings = require('Game.Assets.Strings.strings')
